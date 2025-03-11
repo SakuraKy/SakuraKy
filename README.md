@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <img height="20" width="50" src="./images/juejin.png" />：掘金优秀读者，发表了 0 篇技术文章，207篇阅读。
+-   <img height="20" width="50" src="./images/juejin.png" />：掘金优秀读者，发表了 π 篇技术文章，555篇阅读。
 
 ### **蓝桥杯：**
 -  [个人主页](https://www.lanqiao.cn/users/3265140/)
