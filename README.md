@@ -6,7 +6,7 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="390" height="250" />
 
 
 -   <img height="20" width="50" src="./images/juejin.png" />：掘金优秀读者，发表了 π 篇技术文章，555篇阅读。
@@ -14,6 +14,7 @@
 ### **蓝桥杯：**
 -  [个人主页](https://www.lanqiao.cn/users/3265140/)
 - [![](./images/lanqiaobei.png)](https://dasai.lanqiao.cn/)
+---
 
 
 ### **个人网站：**
@@ -33,10 +34,11 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
+---
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=SakuraKy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![SakuraKy's github stats](https://github-readme-stats.vercel.app/api?username=SakuraKy&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraKy&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraKy&layout=compact&langs_count=6)
+
