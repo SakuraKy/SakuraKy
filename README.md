@@ -66,8 +66,8 @@
 
 ## Connect with me  
 <div align="center">
-<a href="mailto:yourname@example.com">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="mailto:sakuraky.shen@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-%2324292e.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
