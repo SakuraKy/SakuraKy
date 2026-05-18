@@ -66,8 +66,8 @@
 
 ## Connect with me  
 <div align="center">
-<a href="mailto:sakuraky.shen@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-%2324292e.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+<a href="mailto:sakura@sakuraky.cn">
+<img src="https://img.shields.io/badge/Email-%2324292e.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA0SDRjLTEuMSAwLTEuOTkuOS0xLjk5IDJMMiAxOGMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjZjMC0xLjEtLjktMi0yLTJ6bTAgNGwtOCA1LTgtNVY2bDggNSA4LTV2MnoiLz48L3N2Zz4=" alt="Email" style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
